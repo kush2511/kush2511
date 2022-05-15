@@ -35,6 +35,7 @@ Full Stack Developer
 </p>
 
 ### <b>My GitHub Stats</b>
+<a href="https://www.github.com/kush2511" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="http://www.github.com/kush2511"><img src="https://github-readme-stats.vercel.app/api?username=kush2511&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="kush2511's GitHub stats" /></a><a href="https://github.com/kush2511" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush2511&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
